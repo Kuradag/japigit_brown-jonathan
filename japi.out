@@ -1,0 +1,87 @@
+Script started on 2020-03-07 15:38:57-0800
+]0;zareth@Rose-Q325UA: ~[01;32mzareth@Rose-Q325UA[00m:[01;34m~[00m$ python3.7[K[K[K[K[K[K[K[K[K/usr/bin/python3.7 "/home/zareth/Documents/IFT 458 Spring C - Middleware Programming _ Database Security/Week_5/japi.py"
+Please enter a stock symbol: SBUX
+{
+    "Global Quote": {
+        "01. symbol": "SBUX",
+        "02. open": "73.4600",
+        "03. high": "75.7100",
+        "04. low": "72.0500",
+        "05. price": "75.3400",
+        "06. volume": "18080148",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "76.1900",
+        "09. change": "-0.8500",
+        "10. change percent": "-1.1156%"
+    }
+}
+Another? (y/n): y
+Please enter a stock symbol: AAPL
+{
+    "Global Quote": {
+        "01. symbol": "AAPL",
+        "02. open": "282.0000",
+        "03. high": "290.8200",
+        "04. low": "281.2300",
+        "05. price": "289.0300",
+        "06. volume": "56544246",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "292.9200",
+        "09. change": "-3.8900",
+        "10. change percent": "-1.3280%"
+    }
+}
+Another? (y/n): y
+Please enter a stock symbol: MSFT
+{
+    "Global Quote": {
+        "01. symbol": "MSFT",
+        "02. open": "162.6100",
+        "03. high": "163.1100",
+        "04. low": "156.0000",
+        "05. price": "161.5700",
+        "06. volume": "72821057",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "166.2700",
+        "09. change": "-4.7000",
+        "10. change percent": "-2.8267%"
+    }
+}
+Another? (y/n): y
+Please enter a stock symbol: ESE
+{
+    "Global Quote": {
+        "01. symbol": "ESE",
+        "02. open": "86.4800",
+        "03. high": "88.6500",
+        "04. low": "85.9100",
+        "05. price": "87.8900",
+        "06. volume": "99509",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "88.9300",
+        "09. change": "-1.0400",
+        "10. change percent": "-1.1695%"
+    }
+}
+Another? (y/n): y
+Please enter a stock symbol: WEIGF
+{
+    "Global Quote": {
+        "01. symbol": "WEIGF",
+        "02. open": "16.0000",
+        "03. high": "16.0000",
+        "04. low": "16.0000",
+        "05. price": "16.0000",
+        "06. volume": "0",
+        "07. latest trading day": "2020-03-06",
+        "08. previous close": "16.0000",
+        "09. change": "0.0000",
+        "10. change percent": "0.0000%"
+    }
+}
+Another? (y/n): n
+
+]0;zareth@Rose-Q325UA: ~[01;32mzareth@Rose-Q325UA[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2020-03-07 15:43:24-0800
